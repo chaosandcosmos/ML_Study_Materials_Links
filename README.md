@@ -26,3 +26,5 @@ Some links to sources of machine learning materials.
 + Learning Deep Architectures for AI: http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf
 
 + deep learning 的最新进展和相关论文的整理: http://mmlab.ie.cuhk.edu.hk/project_deep_learning.html
+
++ scikit-learn: http://scikit-learn.org/stable/
